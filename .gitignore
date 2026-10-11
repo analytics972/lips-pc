@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.idea/
+data/
+data_riawelc/
+logs_run_all_*/
+*.log
